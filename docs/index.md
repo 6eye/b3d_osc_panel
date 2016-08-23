@@ -1,6 +1,6 @@
 ## Generic OSC Panel
 
-The add-on adds the "Generic OSC Panel" to TextEditor sidebar.
+The add-on adds the "Generic OSC Panel" to TextEditor sidebar. Note: CTRL+F if the sidebar is hidden.
 
 During the startup (and while the underlying modal operator is not running) you get a chance to add `paths` to the listener.
 
